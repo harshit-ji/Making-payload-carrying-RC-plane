@@ -1,1 +1,2 @@
 # Making-payload-carrying-RC-plane
+In this project we were to build an RC plane which could take as much payload as possible. In the competition there were two rounds, in the first round we had to fly the plane through a given route to qualify. In the second round we were to load as many golf balls as possible and drop them on a designated area marked by a circle and within the circle only. The winner would be the one with most number of balls inside the circle.
